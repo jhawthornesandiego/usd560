@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mouser_brand_blue">#004a85</color>
+    <color name="mouser_primary_blue">#0070bb</color>
+    <color name="mouser_med_blue">#0099ff</color>
+    <color name="mouser_light_blue">#e7f3f9</color>
+    <color name="mouser_cool_blue">#caebf2</color>
+    <color name="mouser_primary_black">#333333</color>
+    <color name="mouser_dark_grey">#7f7f7f</color>
+    <color name="mouser_medium_grey">#d9d9d9</color>
+    <color name="mouser_light_grey">#f5f5f5</color>
+    <color name="mouser_cool_grey">#585d62</color>
+    <color name="mouser_medium_cool_grey">#a9afb7</color>
+    <color name="mouser_light_cool_grey">#e0e4e9</color>
+    <color name="mouser_dark_green">#588a10</color>
+    <color name="mouser_med_green">#87b53d</color>
+    <color name="mouser_light_green">#dff0d8</color>
+    <color name="mouser_light_cool_green">#d6e9c6</color>
+    <color name="mouser_dark_orange">#dc730a</color>
+    <color name="mouser_med_orange">#f5a960</color>
+    <color name="mouser_light_orange">#f9efe4</color>
+    <color name="mouser_light_cool_orange">#f4dccf</color>
+    <color name="mouser_dark_red">#990000</color>
+    <color name="mouser_light_red">#f2dede</color>
+    <color name="mouser_light_cool_red">#ebccd1</color>
+    <color name="mouser_white">#ffffff</color>
+    <color name="primary_material_light">#f5f5f5</color>
+
+</resources>
