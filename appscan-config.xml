@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration thirdParty="true">
+  <Targets>
+    <Target path="Application\build\intermediates\instant-run-support\debug\dependencies"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_0"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_1"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_2"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_3"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_4"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_5"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_6"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_7"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_8"/>
+    <Target path="Application\build\intermediates\instant-run-support\debug\slice_9"/>
+    <Target path="Application\build\intermediates\manifest\androidTest\debug"/>
+    <Target path="Application\build\intermediates\manifests\full\debug"/>
+    <Target path="Application\build\intermediates\manifests\instant-run\debug"/>
+    <Target path="Application\src\main"/>
+    <Target path="Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"/>
+    <Target path="Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"/>
+    <Target path="gradle\wrapper\gradle-wrapper.jar"/>
+    <Target path=""/>
+    <Target path="Application\build\intermediates\classes\debug"/>
+    <Target path="Application\build\intermediates\incremental-verifier\debug"/>
+    <Target path="Application\build\intermediates\transforms\instantRun\debug\0"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\0"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\1"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\2"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\3"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\4"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\5"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\6"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\7"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\8"/>
+    <Target path="Application\build\intermediates\transforms\instantRunSlicer\debug\9"/>
+  </Targets>
+</Configuration>
